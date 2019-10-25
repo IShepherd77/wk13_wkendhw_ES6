@@ -1,6 +1,6 @@
-const React = require('react');
-const FeaturesList = require('./FeaturesList')
-const FeaturesData = require('./FeaturesData')
+import React, { Component } from 'react';
+import FeaturesList from './FeaturesList';
+import FeaturesData from './FeaturesData';
 
 class App extends React.Component {
 
@@ -28,4 +28,5 @@ class App extends React.Component {
   } 
 }
 
-module.exports = App;
+
+export default App
