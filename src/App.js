@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import FeaturesList from './FeaturesList';
 import FeaturesData from './FeaturesData';
 
-class App extends React.Component {
+class App extends Component {
 
   constructor(props){
     super(props)
