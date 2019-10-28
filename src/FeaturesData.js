@@ -6,7 +6,7 @@ const FeaturesData = [
     name: "destructuring",
     description: "The destructuring assignment syntax is a JavaScript expression that makes it possible to unpack values from arrays, or properties from objects, into distinct variables.",
     MDNLink: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#Object_destructuring",
-    isImplemented: false,
+    isImplemented: true,
     implementations: "FeaturesList.js (props)"
   },
   {
